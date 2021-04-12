@@ -1,4 +1,4 @@
-![Cover](https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/banner-sylvie-canongia.png)
+[![Cover](https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/banner-sylvie-canongia.png)](https://www.sylvie-canongia.fr)
 
 ### Hello, je suis Sylvie :wave: :woman:
 
