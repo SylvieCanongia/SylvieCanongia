@@ -29,7 +29,7 @@ A bientôt !
 - 👯 Je recherche actuellement un poste en 'remote' (télétravail)
 - 📫 Vous pouvez me joindre par téléphone au 06 50 70 60 08 ou par mail à : sylvie.canongia.dev@gmail.com
 
-<br/>
+&nbsp;
 
 ## Skills:
 
@@ -42,8 +42,10 @@ A bientôt !
 <img align = "left" alt = "Vue Js " width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align = "left" alt = "Wordpress " width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
-<br/>
-<br/>
+
+&nbsp;
+
+&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 
