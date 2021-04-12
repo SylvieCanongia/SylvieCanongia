@@ -6,6 +6,9 @@
 
 Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail).
 
+- 🔭 Je travaille actuellement sur un projet de site pour un Club de fans de Mini Austin
+- 🌱 Je monte en compétences sur wordpress, CSS et Vue Js
+
 Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une agence web, une entreprise ou une ESN,  au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
 📫 Vous pouvez me joindre au **06 50 70 60 08** ou par mail : **sylvie.canongia.dev@gmail.com**.
@@ -23,9 +26,6 @@ Vous pouvez également me retrouver sur [![LinkedIn][1.1]][1] ou sur [![Twitter]
 [2]: https://twitter.com/CanongiaS
 
 A bientôt !
-
-- 🔭 Je travaille actuellement sur un projet de site pour un Club de fans de Mini Austin
-- 🌱 Je monte en compétences sur wordpress, CSS et Vue Js
 
 &nbsp;
 
