@@ -1,39 +1,35 @@
 [![Cover](https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/banner-sylvie-canongia.png)](https://www.sylvie-canongia.fr)
 
-### Hello, je suis Sylvie :wave: :woman:
+## Hello, je suis Sylvie :wave: :woman:
 
-#### Dévelopeuse front-end et wordpress
+### Dévelopeuse front-end et wordpress
 
-Développeuse web curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une agence web, une entreprise ou une ESN,  au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
+Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une agence web, une entreprise ou une ESN,  au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
 Basée au Pays Basque, je suis intéressée par un poste en 'remote' (télétravail). Disponible immédiatement, n'hésitez pas à me contacter au 06 50 70 60 08 ou par mail : sylvie.canongia.dev@gmail.com.
 
-Vous pouvez également me retrouver sur [![Twitter][1.1]][1], ou sur [![LinkedIn][2.2]][2].
+Vous pouvez également me retrouver sur [![LinkedIn][1.1]][1], ou sur [![Twitter][2.2]][2].
 
 <!-- Icons -->
 
-[1.1]: http:// (twitter icon)
-[2.2]: https:// (LinkedIn icon)
+[1.1]: https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/linkedin.png (LinkedIn icon)
+[2.2]: https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/twitter.png (twitter icon)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/CanongiaS
-[2]: https://www.linkedin.com/in/sylvie-canongia/
+[1]: https://www.linkedin.com/in/sylvie-canongia/
+[2]: https://twitter.com/CanongiaS
 
 A bientôt !
 
-Skills: HTML / CSS / JavaScript / PHP / Vue Js / Wordpress
+## Skills:
+HTML / CSS / JavaScript / PHP / Vue Js / Wordpress
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je travaille actuellement sur un projet de site pour un Club de fans de Mini Austin
+- 🌱 Je monte en compétences sur wordpress, CSS et Vue Js
+- 👯 Je recherche actuellement un poste en 'remote' (télétravail)
+- 📫 Vous pouvez me joindre par téléphone au 06 50 70 60 08 ou par mail à : sylvie.canongia.dev@gmail.com
 
 ## &#x1f4c8; GitHub Stats
 
