@@ -2,11 +2,13 @@
 
 ## Hello, je suis Sylvie :wave: :woman:
 
-### Dévelopeuse front-end et wordpress
+### Dévelopeuse web front-end et wordpress
+
+Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail).
 
 Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une agence web, une entreprise ou une ESN,  au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
-Basée au Pays Basque, je suis intéressée par un poste en 'remote' (télétravail). Disponible immédiatement, n'hésitez pas à me contacter au 06 50 70 60 08 ou par mail : sylvie.canongia.dev@gmail.com.
+Vous pouvez me joindre au 06 50 70 60 08 ou par mail : sylvie.canongia.dev@gmail.com.
 
 Vous pouvez également me retrouver sur [![LinkedIn][1.1]][1], ou sur [![Twitter][2.2]][2].
 
@@ -22,14 +24,14 @@ Vous pouvez également me retrouver sur [![LinkedIn][1.1]][1], ou sur [![Twitter
 
 A bientôt !
 
-## Skills:
-HTML / CSS / JavaScript / PHP / Vue Js / Wordpress
-
-
 - 🔭 Je travaille actuellement sur un projet de site pour un Club de fans de Mini Austin
 - 🌱 Je monte en compétences sur wordpress, CSS et Vue Js
 - 👯 Je recherche actuellement un poste en 'remote' (télétravail)
 - 📫 Vous pouvez me joindre par téléphone au 06 50 70 60 08 ou par mail à : sylvie.canongia.dev@gmail.com
+
+## Skills:
+HTML / CSS / JavaScript / PHP / Vue Js / Wordpress
+
 
 ## &#x1f4c8; GitHub Stats
 
