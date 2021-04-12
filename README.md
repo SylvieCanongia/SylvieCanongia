@@ -8,6 +8,18 @@ Développeuse web curieuse et enthousiaste, je suis impatiente à l'idée de com
 
 Basée au Pays Basque, je suis intéressée par un poste en 'remote' (télétravail). Disponible immédiatement, n'hésitez pas à me contacter au 06 50 70 60 08 ou par mail : sylvie.canongia.dev@gmail.com.
 
+Vous pouvez également me retrouver sur [![Twitter][1.1]][1], ou sur [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.1]: http:// (twitter icon)
+[2.2]: https:// (LinkedIn icon)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/CanongiaS
+[2]: https://www.linkedin.com/in/sylvie-canongia/
+
 A bientôt !
 
 Skills: HTML / CSS / JavaScript / PHP / Vue Js / Wordpress
