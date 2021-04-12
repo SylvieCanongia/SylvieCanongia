@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Cover](https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/banner-sylvie-canongia.png)
 <!--
 **SylvieCanongia/SylvieCanongia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
