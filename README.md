@@ -1,8 +1,8 @@
 ![Cover](https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/banner-sylvie-canongia.png)
 
-### Hi, I'm Sylvie :wave: :woman:
+### Hello, je suis Sylvie :wave: :woman:
 
-#### Front-End and Wordpress developer
+#### Dévelopeuse front-end et wordpress
 
 Développeuse web curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une agence web, une entreprise ou une ESN,  au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
