@@ -60,6 +60,14 @@ A bientôt !
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=portfolio&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/SylvieCanongia/huckleberry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=hukleberry&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/SylvieCanongia/JS-compteur-de-clics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=JS-compteur-de-clics&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
