@@ -6,8 +6,8 @@
 
 Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail).
 
-- 🔭 Je travaille actuellement sur un projet de site pour un Club de fans de Mini Austin
-- 🌱 Je monte en compétences sur wordpress, CSS et Vue Js
+- 🔭 Je me forme actuellement à React JS :heart_eyes: et au [CSS pour les développeurs JavaScript](https://css-for-js.dev/) :tada: :tada:.
+- 🌱 Je monte en compétences sur wordpress et CSS.
 
 Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une agence web, une entreprise ou une ESN,  au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
