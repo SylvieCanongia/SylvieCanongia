@@ -8,6 +8,7 @@ Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétra
 
 - 🔭 Je me forme actuellement à React JS :heart_eyes: et au [CSS pour les développeurs JavaScript](https://css-for-js.dev/) :tada: :tada:.
 - 🌱 Je monte en compétences sur wordpress et CSS.
+- :scroll: Opquast - Maîtrise de la qualité en projet web, certification expert, 910 points.
 
 Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une agence web, une entreprise ou une ESN,  au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
