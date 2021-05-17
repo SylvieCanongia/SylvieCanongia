@@ -2,7 +2,7 @@
 
 ## Hello, je suis Sylvie :wave: :woman:
 
-### Développeuse web React et wordpress
+### Développeuse web front-end React, Vue JS
 
 Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail).
 
