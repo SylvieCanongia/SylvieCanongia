@@ -7,10 +7,10 @@
 Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail).
 
 - 🔭 Je me forme actuellement à React JS :heart_eyes: et au [CSS pour les développeurs JavaScript](https://css-for-js.dev/) :tada: :tada:.
-- 🌱 Je monte en compétences sur wordpress et CSS.
+<!-- - 🌱 Je monte en compétences sur wordpress et CSS. -->
 - :scroll: Opquast - Maîtrise de la qualité en projet web, certification expert, 910 points.
 
-Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une agence web, une entreprise ou une ESN,  au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
+Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une entreprise ou une agence web, au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
 
 📫 Vous pouvez me joindre au **06 50 70 60 08** ou par mail : **sylvie.canongia.dev@gmail.com**.
 
