@@ -6,8 +6,9 @@
 
 Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail).
 
-- 🔭 Je me forme actuellement à React JS :heart_eyes: et au [CSS pour les développeurs JavaScript](https://css-for-js.dev/) :tada: :tada:.
-<!-- - 🌱 Je monte en compétences sur wordpress et CSS. -->
+- 🔭 Je me forme actuellement à React JS et Redux :heart_eyes: ainsi qu'au [CSS pour les développeurs JavaScript](https://css-for-js.dev/) :tada: :tada:.
+- :rocket: Je monte en compétences en UX design et en e-commerce :fire:.
+- :star2: Je découvre GraphQL.
 - :scroll: Opquast - Maîtrise de la qualité en projet web, certification expert, 910 points.
 
 Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une entreprise ou une agence web, au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
@@ -37,7 +38,9 @@ A bientôt !
 <img align = "left" alt = "JavaScript" width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align = "left" alt = "Sass" width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align = "left" alt = "React JS " width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align = "left" alt = "Redux" width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align = "left" alt = "Vue Js " width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align = "left" alt = "Babel " width = "60px" src = "https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png" />
 <img align = "left" alt = "PHP" width = "60px" src = "https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align = "left" alt = "MySQL" width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align = "left" alt = "Wordpress " width = "60px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
