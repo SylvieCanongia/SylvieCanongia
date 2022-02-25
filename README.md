@@ -60,6 +60,20 @@ A bientôt !
 <a href="https://github.com/SylvieCanongia/SylvieCanongia">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SylvieCanongia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sylvie's GitHub Stats" />
 </a>
+
+
+<a href="https://github.com/SylvieCanongia/SylvieCanongia_7_02022022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_7_02022022&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SylvieCanongia/SylvieCanongia_6_1012021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_6_1012021&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SylvieCanongia/GameOn-website-FR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=GameOn-website-FR&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SylvieCanongia/SylvieCanongia_3_28092021">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_3_28092021&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/SylvieCanongia/REACT-REDUX-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=REACT-REDUX-chat&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
