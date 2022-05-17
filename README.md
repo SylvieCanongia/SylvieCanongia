@@ -109,7 +109,7 @@ A bientôt !
 <!-- <a href="https://github.com/SylvieCanongia/JS-compteur-de-clics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=JS-compteur-de-clics&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SylvieCanongia)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- Resources -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
