@@ -2,13 +2,13 @@
 
 ## Hello, je suis Sylvie :wave: :woman:
 
-### Développeuse web front-end React, Vue JS
+### Développeuse web full stack - React
 
-Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail).
+Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail) total ou hybride.
 
-- :star2: Je me forme chez Openclassrooms en vue d'obtenir le titre pro "Développeuse d'applications - spécialisation front-end" (niveau 6, Bac +3).
-- 🔭 Je me forme actuellement à React JS et Redux :heart_eyes: ainsi qu'au [CSS pour les développeurs JavaScript](https://css-for-js.dev/) :tada: :tada:.
-- :rocket: Je monte en compétences en UX design et en e-commerce :fire:.
+- :star2: J'étudie actuellement chez Openclassrooms en vue d'obtenir le titre pro "Développeuse d'applications - spécialisation front-end" (niveau 6, Bac +3).
+- 🔭  Mes compétences : React JS :heart_eyes:, stack MERN, Symfony (en cours) :tada: :tada:.
+- :rocket: J'ai un attrait pour l'UX design et le e-commerce :fire:.
 - :scroll: Opquast - Maîtrise de la qualité en projet web, certification expert, 910 points.
 
 Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une entreprise ou une agence web, au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
