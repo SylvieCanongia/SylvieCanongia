@@ -2,7 +2,7 @@
 
 ## Hello, je suis Sylvie :wave: :woman:
 
-### Développeuse web full stack - React
+### Développeuse web full stack Wordpress - React
 
 Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail) dans une entreprise à projet social et/ou environnemental ou des missions en freelance.
 
