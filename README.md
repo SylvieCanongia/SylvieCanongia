@@ -4,14 +4,14 @@
 
 ### Développeuse web full stack - React
 
-Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail) total ou hybride.
+Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail) dans une entreprise à projet social et/ou environnemental ou des missions en freelance.
 
 - :star2: J'étudie actuellement chez Openclassrooms en vue d'obtenir le titre pro "Développeuse d'applications - spécialisation front-end" (niveau 6, Bac +3).
-- 🔭  Mes compétences : React JS :heart_eyes:, stack MERN, Symfony (en cours) :tada: :tada:.
-- :rocket: J'ai un attrait pour l'UX design et le e-commerce :fire:.
+- 🔭  Mes compétences : Wordpress FSE / Gutenberg - React JS - PHP :heart_eyes: :tada: :tada:.
+- :rocket: Je mets l'expérience utilisateur au premier plan. Je m'intéresse à l'accessibilité et à l'écoconception :fire:.
 - :scroll: Opquast - Maîtrise de la qualité en projet web, certification expert, 910 points.
 
-Curieuse et enthousiaste, je suis impatiente à l'idée de commencer une nouvelle aventure au sein d'une entreprise ou une agence web, au service de laquelle je mettrai mon sens du détail et mes qualités relationnelles.
+Curieuse et enthousiaste, je suis impatiente à l'idée de mettre mon sens du détail et mes qualités relationnelles à votre service.
 
 📫 Vous pouvez me joindre au **06 50 70 60 08** ou par mail : **sylvie.canongia.dev@gmail.com**.
 
