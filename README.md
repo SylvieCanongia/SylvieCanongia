@@ -2,16 +2,17 @@
 
 ## Hello, je suis Sylvie :wave: :woman:
 
-### Développeuse web full stack Wordpress - React
+### Développeuse web front-end spécialisée React et Wordpress
 
-Basée au Pays Basque, je recherche actuellement un poste en 'remote' (télétravail) dans une entreprise à projet social et/ou environnemental ou des missions en freelance.
+Suite à une reconversion professionnelle de trois ans à temps plein dans le développement web, je recherche un poste en 'remote' (télétravail) partiel ou total dans une entreprise ou des missions en freelance.
 
-- :star2: J'étudie actuellement chez Openclassrooms en vue d'obtenir le titre pro "Développeuse d'applications - spécialisation front-end" (niveau 6, Bac +3).
-- 🔭  Mes compétences : Wordpress FSE / Gutenberg - React JS - PHP :heart_eyes: :tada: :tada:.
+- :star2:  J'ai suivi la formation "Développeur web Front-end - React" chez Openclassrooms en vue d'obtenir le titre professionnel "Développeuse d'applications - spécialisation front-end" (niveau 6, Bac +3).
+- :star2: Avant cela, j'ai également suivi la formation Développeur web fullstack spécialisation Wordpress, puis React sein de l'école O'Clock (6 mois à temps plein, niveau bac +2).
+- 🔭  Mes compétences : HTML - CSS - Sass - JavaScript - React JS - Wordpress FSE / Gutenberg - PHP :heart_eyes: :tada: :tada:.
 - :rocket: Je mets l'expérience utilisateur au premier plan. Je m'intéresse à l'accessibilité et à l'écoconception :fire:.
 - :scroll: Opquast - Maîtrise de la qualité en projet web, certification expert, 910 points.
 
-Curieuse et enthousiaste, je suis impatiente à l'idée de mettre mon sens du détail et mes qualités relationnelles à votre service.
+Autonome, curieuse et enthousiaste, je suis impatiente à l'idée de mettre mon sens du détail et mes qualités relationnelles à votre service.
 
 📫 Vous pouvez me joindre au **06 50 70 60 08** ou par mail : **sylvie.canongia.dev@gmail.com**.
 
