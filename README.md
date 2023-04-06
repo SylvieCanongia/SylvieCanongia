@@ -2,13 +2,13 @@
 
 ## Hello, je suis Sylvie :wave: :woman:
 
-### Développeuse web React
+### Développeuse web front-end
 
 Passionnée de développement depuis plus de 10 ans et suite à une reconversion professionnelle de trois ans à temps plein dans le développement web, je recherche un poste en 'remote' (télétravail) partiel ou total dans une entreprise ou des missions en freelance.
 
 - :star2:  J'ai suivi la formation "Développeur web React" chez Openclassrooms (Titre RNCP35976 niveau 6 - bac +3/4).
 - :star2: Avant cela, j'ai également suivi la formation Développeur web fullstack spécialisation Wordpress, puis React sein de l'école O'Clock (6 mois à temps plein) (RNCP31114, niveau bac +2).
-- 🔭  Mes compétences : HTML - CSS - Sass - JavaScript - React JS - TypeScript - Wordpress - Node JS - Express - PHP - Python :heart_eyes: :tada: :tada:.
+- 🔭  Mes compétences : HTML - CSS - Sass - JavaScript - React JS - TypeScript - Node JS - Express - PHP - Wordpress :heart_eyes: :tada: :tada:.
 - :rocket: Je mets l'expérience utilisateur au premier plan. Je m'intéresse à l'accessibilité et à l'écoconception :fire:.
 - :scroll: Opquast - Maîtrise de la qualité en projet web, certification expert, 910 points.
 
@@ -101,9 +101,9 @@ A bientôt !
 <a href="https://github.com/SylvieCanongia/React-JS-to-do-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=React-JS-to-do-list&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/SylvieCanongia/portfolio">
+<!-- <a href="https://github.com/SylvieCanongia/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=portfolio&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 <a href="https://github.com/SylvieCanongia/huckleberry">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=huckleberry&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
