@@ -6,7 +6,7 @@
 
 Passionnée de développement depuis plus de 10 ans et suite à une reconversion professionnelle de trois ans à temps plein dans le développement web, je recherche un poste en 'remote' (télétravail) partiel ou total dans une entreprise ou des missions en freelance.
 
-- :star2:  J'ai suivi la formation "Développeur web React" chez Openclassrooms (Titre RNCP35976 niveau 6 - bac +3/4).
+- :star2:  J'ai validé la formation "Développeur web React" chez Openclassrooms (Titre RNCP35976 niveau 6 - bac +3/4).
 - :star2: Avant cela, j'ai également suivi la formation Développeur web fullstack spécialisation Wordpress, puis React sein de l'école O'Clock (6 mois à temps plein) (RNCP31114, niveau bac +2).
 - 🔭  Mes compétences : HTML - CSS - Sass - JavaScript - React JS - TypeScript - Node JS - Express - PHP - Wordpress :heart_eyes: :tada: :tada:.
 - :rocket: Je mets l'expérience utilisateur au premier plan. Je m'intéresse à l'accessibilité et à l'écoconception :fire:.
