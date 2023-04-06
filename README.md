@@ -62,6 +62,24 @@ A bientôt !
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SylvieCanongia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sylvie's GitHub Stats" />
 </a>
 
+<a href="https://github.com/SylvieCanongia/chadamour">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=chadamour&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SylvieCanongia/p14-hrnet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=p14-hrnet&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SylvieCanongia/hrnet-modal-component">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=hrnet-modal-component&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SylvieCanongia/kasa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=kasa&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SylvieCanongia/bank-front-end">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=bank-front-end&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/SylvieCanongia/sportsee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=sportsee&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/SylvieCanongia/SylvieCanongia_7_02022022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_7_02022022&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -104,9 +122,9 @@ A bientôt !
 <!-- <a href="https://github.com/SylvieCanongia/portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=portfolio&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->
-<a href="https://github.com/SylvieCanongia/huckleberry">
+<!--<a href="https://github.com/SylvieCanongia/huckleberry">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=huckleberry&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/SylvieCanongia/JS-compteur-de-clics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=JS-compteur-de-clics&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> -->
