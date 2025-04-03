@@ -4,17 +4,53 @@
 
 ### Développeuse web freelance WordPress
 
-Passionnée par le web, je crée des sites WordPress accessibles, performants, éco-responsables et abordables pour aider mes clients à réussir en ligne.
+Passionnée par le web, je conçois des sites WordPress **clés en main**, accessibles, performants, éco-responsables et abordables. Mon objectif : aider mes clients à réussir en ligne avec des solutions optimisées et durables.
 
-- :star2:  J'ai validé la formation "Développeur web React" chez Openclassrooms (Titre RNCP35976 niveau 6 - bac +3/4).
-- :star2: Avant cela, j'ai également suivi la formation Développeur web fullstack spécialisation Wordpress, puis React sein de l'école O'Clock (6 mois à temps plein) (RNCP31114, niveau bac +2).
-- 🔭  Mes compétences : HTML - CSS - Sass - JavaScript - React JS - TypeScript - Node JS - Express - PHP - Wordpress :heart_eyes: :tada: :tada:.
-- :rocket: Je mets l'expérience utilisateur au premier plan. Je m'intéresse à l'accessibilité et à l'écoconception :fire:.
-- :scroll: Opquast - Maîtrise de la qualité en projet web, certification expert, 910 points.
+🌱 **Mon approche :**  
+- Priorité à l'**expérience utilisateur** et à l'**accessibilité** :smile:.
+- Engagement pour l'**écoconception** et la performance durable :green_heart:.
 
-Autonome, curieuse et enthousiaste, je suis impatiente à l'idée de mettre mon sens du détail et mes qualités relationnelles à votre service.
+📜 **Certifications :**  
+- **Opquast** - Maîtrise de la qualité web (910 points) :trophy:.
+- **Titre RNCP35976** - Développeur web React (Bac+3/4) :mortar_board:.
+- **Titre RNCP31114** - Développeur fullstack WordPress/React (Bac+2) :books:.
 
-📫 Vous pouvez me joindre au **06 50 70 60 08** ou par mail : **sylvie.canongia.dev@gmail.com**.
+🔧 **Compétences techniques :**  
+HTML, CSS/Sass, JavaScript, React, TypeScript, Node.js, Express, PHP, WordPress :computer:.
+
+✨ **Valeurs ajoutées :**  
+Autonome, curieuse et enthousiaste, je mets mon sens du détail et mes qualités relationnelles au service de projets web sur mesure :heart_eyes:.
+
+📫 **Me contacter :**  
+Vous pouvez me joindre au **06 50 70 60 08** ou par mail : **sylvie.canongia.dev@gmail.com**.  
+Vous pouvez également me retrouver sur [![LinkedIn][1.1]][1] ou sur [![Twitter][2.2]][2].
+
+---
+
+## Hello, I'm Sylvie :wave: :woman:
+
+### Freelance Web Developer specializing in WordPress
+
+Passionate about the web, I design **turn-key WordPress websites** that are accessible, high-performing, eco-friendly, and affordable. My goal: to help clients succeed online with optimized and sustainable solutions.
+
+🌱 **My approach :**  
+- Focus on **user experience** and **accessibility** :smile:.
+- Commitment to **eco-design** and sustainable performance :green_heart:.
+
+📜 **Certifications :**  
+- **Opquast** - Web Quality Assurance (910 points) :trophy:.
+- **RNCP35976** - React Web Developer (Bachelor’s Level) :mortar_board:.
+- **RNCP31114** - Fullstack Developer WordPress/React (Associate’s Level) :books:.
+
+🔧 **Technical skills :**  
+HTML, CSS/Sass, JavaScript, React, TypeScript, Node.js, Express, PHP, WordPress :computer:.
+
+✨ **Added value :**  
+Autonomous, curious, and enthusiastic, I bring attention to detail and strong interpersonal skills to tailor-made web projects :heart_eyes:.
+
+📫 **Get in touch :**  
+You can reach me at **06 50 70 60 08** or by email: **sylvie.canongia.dev@gmail.com**.  
+You can also find me on [![LinkedIn][1.1]][1] or on [![Twitter][2.2]][2].
 
 Vous pouvez également me retrouver sur [![LinkedIn][1.1]][1] ou sur [![Twitter][2.2]][2].
 
