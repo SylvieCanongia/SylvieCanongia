@@ -109,36 +109,36 @@ A bientôt !
 <a href="https://github.com/SylvieCanongia/web-palette-lab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=web-palette-lab&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/SylvieCanongia/p14-hrnet">
+<!-- <a href="https://github.com/SylvieCanongia/p14-hrnet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=p14-hrnet&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/hrnet-modal-component">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/hrnet-modal-component">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=hrnet-modal-component&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/kasa">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/kasa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=kasa&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/bank-front-end">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/bank-front-end">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=bank-front-end&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/sportsee">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/sportsee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=sportsee&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/SylvieCanongia_7_02022022">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/SylvieCanongia_7_02022022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_7_02022022&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/SylvieCanongia_6_1012021">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/SylvieCanongia_6_1012021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_6_1012021&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/GameOn-website-FR">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/GameOn-website-FR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=GameOn-website-FR&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/SylvieCanongia_3_28092021">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/SylvieCanongia_3_28092021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_3_28092021&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/SylvieCanongia_2_06092021">
+</a> -->
+<!-- <a href="https://github.com/SylvieCanongia/SylvieCanongia_2_06092021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_2_06092021&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/SylvieCanongia/REACT-REDUX-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=REACT-REDUX-chat&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
