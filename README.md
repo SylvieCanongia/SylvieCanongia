@@ -13,7 +13,9 @@ Passionnée par le web, je conçois des sites WordPress **clés en main**, acces
 📜 **Certifications :**  
 - **Opquast** - Maîtrise de la qualité web (910 points) :trophy:.
 - **Titre RNCP35976** - Développeur web React (Bac+3/4) :mortar_board:.
-- **Titre RNCP31114** - Développeur fullstack WordPress/React (Bac+2) :books:.
+
+🎓 **Formations suivies :**  
+- Développeur fullstack WordPress/React (RNCP31114, Bac+2) :books:
 
 🔧 **Compétences techniques :**  
 HTML, CSS/Sass, JavaScript, React, TypeScript, Node.js, Express, PHP, WordPress :computer:.
@@ -40,7 +42,9 @@ Passionate about the web, I design **turn-key WordPress websites** that are acce
 📜 **Certifications :**  
 - **Opquast** - Web Quality Assurance (910 points) :trophy:.
 - **RNCP35976** - React Web Developer (Bachelor’s Level) :mortar_board:.
-- **RNCP31114** - Fullstack Developer WordPress/React (Associate’s Level) :books:.
+
+🎓 **Training completed:**  
+- Fullstack Developer WordPress/React (RNCP31114, Associate’s Level) :books:
 
 🔧 **Technical skills :**  
 HTML, CSS/Sass, JavaScript, React, TypeScript, Node.js, Express, PHP, WordPress :computer:.
