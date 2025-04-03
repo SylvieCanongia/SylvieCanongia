@@ -21,7 +21,8 @@ Passionnée par le web, je conçois des sites WordPress **clés en main**, acces
 
 HTML, CSS/Sass, JavaScript, React, TypeScript, Node.js, Express, PHP, WordPress :computer:.
 
-✨ **Valeurs ajoutées :**  
+✨ **Valeurs ajoutées :**
+
 Autonome, curieuse et enthousiaste, je mets mon sens du détail et mes qualités relationnelles au service de projets web sur mesure :heart_eyes:.
 
 📫 **Me contacter :**  
@@ -51,7 +52,8 @@ Passionate about the web, I design **turn-key WordPress websites** that are acce
 
 HTML, CSS/Sass, JavaScript, React, TypeScript, Node.js, Express, PHP, WordPress :computer:.
 
-✨ **Added value :**  
+✨ **Added value :**
+
 Autonomous, curious, and enthusiastic, I bring attention to detail and strong interpersonal skills to tailor-made web projects :heart_eyes:.
 
 📫 **Get in touch :**  
