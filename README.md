@@ -151,28 +151,3 @@ A bientôt !
 <a href="https://github.com/SylvieCanongia/React-JS-blog-du-tac-au-tech">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=React-JS-blog-du-tac-au-tech&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/SylvieCanongia/React-JS-Currency-converter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=React-JS-Currency-converter&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/REACT-JS-Recette-gateau-chocolat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=REACT-JS-Recette-gateau-chocolat&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/React-JS-todo-list-v2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=React-JS-todo-list-v2&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/React-JS-to-do-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=React-JS-to-do-list&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<!-- <a href="https://github.com/SylvieCanongia/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=portfolio&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-<!--<a href="https://github.com/SylvieCanongia/huckleberry">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=huckleberry&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-<!-- <a href="https://github.com/SylvieCanongia/JS-compteur-de-clics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=JS-compteur-de-clics&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SylvieCanongia)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- Resources -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
