@@ -17,7 +17,8 @@ Passionnée par le web, je conçois des sites WordPress **clés en main**, acces
 🎓 **Formations suivies :**  
 - Développeur fullstack WordPress/React (RNCP31114, Bac+2) :books:
 
-🔧 **Compétences techniques :**  
+🔧 **Compétences techniques :**
+
 HTML, CSS/Sass, JavaScript, React, TypeScript, Node.js, Express, PHP, WordPress :computer:.
 
 ✨ **Valeurs ajoutées :**  
@@ -46,7 +47,8 @@ Passionate about the web, I design **turn-key WordPress websites** that are acce
 🎓 **Training completed:**  
 - Fullstack Developer WordPress/React (RNCP31114, Associate’s Level) :books:
 
-🔧 **Technical skills :**  
+🔧 **Technical skills :**
+
 HTML, CSS/Sass, JavaScript, React, TypeScript, Node.js, Express, PHP, WordPress :computer:.
 
 ✨ **Added value :**  
