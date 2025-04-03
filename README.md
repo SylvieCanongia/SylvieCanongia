@@ -1,10 +1,10 @@
-[![Cover](https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/banner-sylvie-canongia.png)](https://www.sylvie-canongia.fr)
+[![Cover](https://github.com/SylvieCanongia/SylvieCanongia/blob/main/images/banner-sylvie-canongia.png)](https://www.madevfreelance.fr)
 
 ## Hello, je suis Sylvie :wave: :woman:
 
-### Développeuse web front-end
+### Développeuse web freelance WordPress
 
-Passionnée de développement depuis plus de 10 ans et suite à une reconversion professionnelle de trois ans à temps plein dans le développement web, je recherche un poste en 'remote' (télétravail) partiel ou total dans une entreprise ou des missions en freelance.
+Passionnée par le web, je crée des sites WordPress accessibles, performants, éco-responsables et abordables pour aider mes clients à réussir en ligne.
 
 - :star2:  J'ai validé la formation "Développeur web React" chez Openclassrooms (Titre RNCP35976 niveau 6 - bac +3/4).
 - :star2: Avant cela, j'ai également suivi la formation Développeur web fullstack spécialisation Wordpress, puis React sein de l'école O'Clock (6 mois à temps plein) (RNCP31114, niveau bac +2).
