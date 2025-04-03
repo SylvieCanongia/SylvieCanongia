@@ -139,7 +139,7 @@ A bientôt !
 <a href="https://github.com/SylvieCanongia/SylvieCanongia_2_06092021">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=SylvieCanongia_2_06092021&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/SylvieCanongia/REACT-REDUX-chat">
+<!-- <a href="https://github.com/SylvieCanongia/REACT-REDUX-chat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=REACT-REDUX-chat&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/SylvieCanongia/REACT-REDUX-random-gradient-generator">
@@ -147,4 +147,4 @@ A bientôt !
 </a>
 <a href="https://github.com/SylvieCanongia/React-JS-github-repos-search-directory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=React-JS-github-repos-search-directory&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a> -->
