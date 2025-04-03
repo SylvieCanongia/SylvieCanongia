@@ -106,8 +106,8 @@ A bientôt !
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SylvieCanongia&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sylvie's GitHub Stats" />
 </a>
 
-<a href="https://github.com/SylvieCanongia/chadamour">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=chadamour&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/SylvieCanongia/web-palette-lab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=web-palette-lab&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/SylvieCanongia/p14-hrnet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=p14-hrnet&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -147,7 +147,4 @@ A bientôt !
 </a>
 <a href="https://github.com/SylvieCanongia/React-JS-github-repos-search-directory">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=React-JS-github-repos-search-directory&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/SylvieCanongia/React-JS-blog-du-tac-au-tech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SylvieCanongia&repo=React-JS-blog-du-tac-au-tech&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
