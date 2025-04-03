@@ -8,7 +8,7 @@ Passionnée par le web, je conçois des sites WordPress **clés en main**, acces
 
 🌱 **Mon approche :**  
 - Priorité à l'**expérience utilisateur** et à l'**accessibilité** :smile:.
-- Engagement pour l'**écoconception** et la performance durable :green_heart:.
+- Engagement pour l'**éco-responsabilité** et la performance durable :green_heart:.
 
 📜 **Certifications :**  
 - **Opquast** - Maîtrise de la qualité web (910 points) :trophy:.
@@ -35,7 +35,7 @@ Passionate about the web, I design **turn-key WordPress websites** that are acce
 
 🌱 **My approach :**  
 - Focus on **user experience** and **accessibility** :smile:.
-- Commitment to **eco-design** and sustainable performance :green_heart:.
+- Commitment to **eco-responsibility** and sustainable performance :green_heart:.
 
 📜 **Certifications :**  
 - **Opquast** - Web Quality Assurance (910 points) :trophy:.
